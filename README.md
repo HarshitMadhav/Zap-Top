@@ -1,2 +1,2 @@
-# Zap-Top
-Zap Top is a game
+# ZapTop
+ZapTop is a game
